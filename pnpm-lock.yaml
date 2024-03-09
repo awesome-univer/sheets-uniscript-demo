@@ -46,7 +46,7 @@ dependencies:
     version: 0.1.2(@univerjs/core@0.1.2)(@univerjs/design@0.1.2)(@univerjs/engine-render@0.1.2)(@wendellhu/redi@0.13.0)(clsx@2.1.0)(react-dom@18.2.0)(react@18.2.0)(rxjs@7.8.1)
   '@univerjs/uniscript':
     specifier: ^0.1.2
-    version: 0.1.2(@univerjs/core@0.1.2)(@univerjs/design@0.1.2)(@univerjs/facade@0.1.2)(@univerjs/sheets@0.1.2)(@univerjs/ui@0.1.2)(@wendellhu/redi@0.13.0)(monaco-editor@0.46.0)(react@18.2.0)(rxjs@7.8.1)
+    version: 0.1.2(@univerjs/core@0.1.2)(@univerjs/design@0.1.2)(@univerjs/facade@0.1.2)(@univerjs/sheets@0.1.2)(@univerjs/ui@0.1.2)(@wendellhu/redi@0.13.0)(monaco-editor@0.47.0)(react@18.2.0)(rxjs@7.8.1)
 
 devDependencies:
   typescript:
@@ -748,7 +748,7 @@ packages:
       rxjs: 7.8.1
     dev: false
 
-  /@univerjs/uniscript@0.1.2(@univerjs/core@0.1.2)(@univerjs/design@0.1.2)(@univerjs/facade@0.1.2)(@univerjs/sheets@0.1.2)(@univerjs/ui@0.1.2)(@wendellhu/redi@0.13.0)(monaco-editor@0.46.0)(react@18.2.0)(rxjs@7.8.1):
+  /@univerjs/uniscript@0.1.2(@univerjs/core@0.1.2)(@univerjs/design@0.1.2)(@univerjs/facade@0.1.2)(@univerjs/sheets@0.1.2)(@univerjs/ui@0.1.2)(@wendellhu/redi@0.13.0)(monaco-editor@0.47.0)(react@18.2.0)(rxjs@7.8.1):
     resolution: {integrity: sha512-nIAuHOnr+NTnF2yyRPIl+nN7AxT8xBSNvBygBlDoAXH5qVtcI8QmBdOa2BMfsRPDaM6Ru3CSGBRxfM2Y6/U5Lw==}
     engines: {node: '>=16.0.0', npm: '>=8.0.0'}
     peerDependencies:
@@ -768,7 +768,7 @@ packages:
       '@univerjs/sheets': 0.1.2(@univerjs/core@0.1.2)(@univerjs/engine-formula@0.1.2)(@univerjs/engine-render@0.1.2)(@wendellhu/redi@0.13.0)(rxjs@7.8.1)
       '@univerjs/ui': 0.1.2(@univerjs/core@0.1.2)(@univerjs/design@0.1.2)(@univerjs/engine-render@0.1.2)(@wendellhu/redi@0.13.0)(clsx@2.1.0)(react-dom@18.2.0)(react@18.2.0)(rxjs@7.8.1)
       '@wendellhu/redi': 0.13.0
-      monaco-editor: 0.46.0
+      monaco-editor: 0.47.0
       react: 18.2.0
       rxjs: 7.8.1
     dev: false
@@ -896,8 +896,8 @@ packages:
       js-tokens: 4.0.0
     dev: false
 
-  /monaco-editor@0.46.0:
-    resolution: {integrity: sha512-ADwtLIIww+9FKybWscd7OCfm9odsFYHImBRI1v9AviGce55QY8raT+9ihH8jX/E/e6QVSGM+pKj4jSUSRmALNQ==}
+  /monaco-editor@0.47.0:
+    resolution: {integrity: sha512-VabVvHvQ9QmMwXu4du008ZDuyLnHs9j7ThVFsiJoXSOQk18+LF89N4ADzPbFenm0W4V2bGHnFBztIRQTgBfxzw==}
     dev: false
 
   /nanoid@3.3.7:
