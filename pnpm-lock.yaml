@@ -46,7 +46,7 @@ dependencies:
     version: 0.1.17(@univerjs/core@0.1.17)(@univerjs/design@0.1.17)(@univerjs/engine-formula@0.1.17)(@univerjs/engine-render@0.1.17)(@wendellhu/redi@0.15.4)(clsx@2.1.1)(react-dom@18.3.1)(react@18.3.1)(rxjs@7.8.1)(typescript@5.3.3)
   '@univerjs/uniscript':
     specifier: ^0.1.17
-    version: 0.1.17(@grpc/grpc-js@1.11.3)(@univerjs/core@0.1.17)(@univerjs/design@0.1.17)(@univerjs/facade@0.1.17)(@univerjs/sheets-ui@0.1.17)(@univerjs/sheets@0.1.17)(@univerjs/ui@0.1.17)(@wendellhu/redi@0.15.4)(monaco-editor@0.51.0)(react@18.3.1)(rxjs@7.8.1)
+    version: 0.1.17(@grpc/grpc-js@1.11.3)(@univerjs/core@0.1.17)(@univerjs/design@0.1.17)(@univerjs/facade@0.1.17)(@univerjs/sheets-ui@0.1.17)(@univerjs/sheets@0.1.17)(@univerjs/ui@0.1.17)(@wendellhu/redi@0.15.4)(monaco-editor@0.52.0)(react@18.3.1)(rxjs@7.8.1)
 
 devDependencies:
   typescript:
@@ -950,7 +950,7 @@ packages:
       - typescript
     dev: false
 
-  /@univerjs/uniscript@0.1.17(@grpc/grpc-js@1.11.3)(@univerjs/core@0.1.17)(@univerjs/design@0.1.17)(@univerjs/facade@0.1.17)(@univerjs/sheets-ui@0.1.17)(@univerjs/sheets@0.1.17)(@univerjs/ui@0.1.17)(@wendellhu/redi@0.15.4)(monaco-editor@0.51.0)(react@18.3.1)(rxjs@7.8.1):
+  /@univerjs/uniscript@0.1.17(@grpc/grpc-js@1.11.3)(@univerjs/core@0.1.17)(@univerjs/design@0.1.17)(@univerjs/facade@0.1.17)(@univerjs/sheets-ui@0.1.17)(@univerjs/sheets@0.1.17)(@univerjs/ui@0.1.17)(@wendellhu/redi@0.15.4)(monaco-editor@0.52.0)(react@18.3.1)(rxjs@7.8.1):
     resolution: {integrity: sha512-6HQvEtJ1eTPGRtjKfLltqZhpN5V4V/ywCxe5UZnCkH5ZI3G9zhNOUU5ZW2nPQgQqXSl1yW9i1TVN1bQLRBo3IA==}
     peerDependencies:
       '@univerjs/core': 0.1.17
@@ -972,7 +972,7 @@ packages:
       '@univerjs/sheets-ui': 0.1.17(@grpc/grpc-js@1.11.3)(@univerjs/core@0.1.17)(@univerjs/design@0.1.17)(@univerjs/docs-ui@0.1.17)(@univerjs/docs@0.1.17)(@univerjs/engine-formula@0.1.17)(@univerjs/engine-numfmt@0.1.17)(@univerjs/engine-render@0.1.17)(@univerjs/sheets@0.1.17)(@univerjs/ui@0.1.17)(@wendellhu/redi@0.15.4)(clsx@2.1.1)(react-dom@18.3.1)(react@18.3.1)(rxjs@7.8.1)
       '@univerjs/ui': 0.1.17(@univerjs/core@0.1.17)(@univerjs/design@0.1.17)(@univerjs/engine-formula@0.1.17)(@univerjs/engine-render@0.1.17)(@wendellhu/redi@0.15.4)(clsx@2.1.1)(react-dom@18.3.1)(react@18.3.1)(rxjs@7.8.1)(typescript@5.3.3)
       '@wendellhu/redi': 0.15.4
-      monaco-editor: 0.51.0
+      monaco-editor: 0.52.0
       react: 18.3.1
       rxjs: 7.8.1
     transitivePeerDependencies:
@@ -1287,8 +1287,8 @@ packages:
     dev: false
     optional: true
 
-  /monaco-editor@0.51.0:
-    resolution: {integrity: sha512-xaGwVV1fq343cM7aOYB6lVE4Ugf0UyimdD/x5PWcWBMKENwectaEu77FAN7c5sFiyumqeJdX1RPTh1ocioyDjw==}
+  /monaco-editor@0.52.0:
+    resolution: {integrity: sha512-OeWhNpABLCeTqubfqLMXGsqf6OmPU6pHM85kF3dhy6kq5hnhuVS1p3VrEW/XhWHc71P2tHyS5JFySD8mgs1crw==}
     dev: false
 
   /n-gram@2.0.2:
